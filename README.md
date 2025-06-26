@@ -81,7 +81,6 @@ Sebelum memulai instalasi, pastikan sistem Anda memenuhi prasyarat berikut:
 - **ITEM\_LOANS ke ITEM\_RETURNS**: satu peminjaman bisa memiliki beberapa pengembalian.
 - **USERS ke ITEM\_LOANS**: satu user bisa melakukan banyak peminjaman.
 
----
+**Download Doc**
 
-Dokumentasi ini dapat dikembangkan dengan modul login multi-role (admin, petugas, peminjam), audit log, export data, dan filter laporan tanggal.
-
+[Download Dokumen](public/dist/si-peminjaman-tech.docx)

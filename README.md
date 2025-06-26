@@ -67,6 +67,7 @@ Sebelum memulai instalasi, pastikan sistem Anda memenuhi prasyarat berikut:
    Akses ke: `http://localhost:8000`
 
 ## 3. Flowchart Alur Aplikasi
+![Flowchart](public/dist/img/Flowchart-peminjaman.png)
 
 **Keterangan Tambahan:**
 

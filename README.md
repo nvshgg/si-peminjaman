@@ -67,7 +67,6 @@ Sebelum memulai instalasi, pastikan sistem Anda memenuhi prasyarat berikut:
    Akses ke: `http://localhost:8000`
 
 ## 3. Flowchart Alur Aplikasi
-![flownchart](public/dist/img/ERD-peminjaman.png)
 
 **Keterangan Tambahan:**
 

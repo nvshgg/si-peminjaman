@@ -69,12 +69,10 @@ Sebelum memulai instalasi, pastikan sistem Anda memenuhi prasyarat berikut:
 ## 3. Flowchart Alur Aplikasi
 ![Flowchart](public/dist/img/Flowchart-peminjaman.png)
 
-**Keterangan Tambahan:**
-
-- Alur Peminjaman akan memvalidasi ketersediaan stok.
-- Pengembalian hanya bisa dilakukan sebagian atau penuh sesuai peminjaman.
 
 ## 4. ERD (Entity-Relationship Diagram)
+
+![Flowchart](public/dist/img/ERD-peminjaman.png)
 
 
 **Detail Relasi:**
